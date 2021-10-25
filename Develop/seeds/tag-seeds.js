@@ -1,4 +1,4 @@
-const { Tag } = require('../models/tag.js');
+const { Tag } = require('../models');
 
 const tagData = [
   {
